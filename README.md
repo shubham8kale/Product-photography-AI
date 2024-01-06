@@ -16,6 +16,6 @@ Creates seamless and realistic new backgrounds that complement the products.
 Implements prompt-based processing to control and customize the background generation process.
 Users can experiment with different prompts to achieve desired results and tailor the aesthetics of the final images.
 
-## Requirements:
+## Requirements
 Pytorch with compatible python, cuda and cudnn versions.
 Rembg & Stable Diffusion Inpainting libraries.
